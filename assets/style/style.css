@@ -1,0 +1,46 @@
+.fab {
+  color: #ffffff;
+  font-size: 30px;
+  margin-right: 30px;
+  transition: .3s;
+}
+
+.fab:hover {
+  transform: scale(0.95);
+  text-shadow: 3px 0px 5px white;
+}
+
+.header__top {
+  background-color: #004156;
+  min-height: 40px;
+  width: 100%;
+}
+
+.header__top__search {
+  margin-top: 5px;
+  height: 30px !important;
+}
+
+.header__top__social {
+  margin-top: 5px;
+}
+
+.header__top__social-link {
+  text-decoration: none;
+  color: transperant;
+}
+
+.header__main {
+  background-color: #fff;
+  height: 80px;
+  width: 100%;
+}
+
+.header__main__logo {
+  width: 255px;
+  height: 80px;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
